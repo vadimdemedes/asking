@@ -1,0 +1,17 @@
+{
+  "name": "asking",
+  "version": "0.1.0",
+  "description": "Input utilities for CLI applications",
+  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vdemedes/asking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vdemedes/asking/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
